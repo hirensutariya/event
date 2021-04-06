@@ -1,0 +1,11 @@
+
+.error.m-error{
+    border-bottom-color: #d9534f;
+}
+small.error.m-error{
+    color: #D9534F;
+}
+.error-class{
+    font-size: 12px;
+    color: #D9534F;
+}
